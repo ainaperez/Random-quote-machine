@@ -1,0 +1,13 @@
+.twitterButton{
+    height: 35px;
+    width: 35px;
+    background-color:rgb(18, 110, 163);
+    color:white;
+    border-radius: 10px;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;   
+}
+
